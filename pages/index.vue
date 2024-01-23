@@ -1,14 +1,13 @@
 <script setup>
 const { data: hello } = await useFetch("/api/hello");
-const { data } = await useFetch("/api/disney");
-const characters = data;
+
 const clientSideExample = "Updated Blah";
 </script>
 
 <template>
   <main>
     <header>
-      <h1>Hello CPRG</h1>
+      <h1>Test</h1>
     </header>
 
     <section>
