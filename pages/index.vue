@@ -11,12 +11,12 @@ const clientSideExample = "Updated Blah";
     </header>
 
     <section>
-      <h2>Hello Data Endpoint Example</h2>
+      <h2>TEstinggggg</h2>
       <p>{{ hello.hello }}</p>
       {{ clientSideExample }}
     </section>
     <section>
-      <h2>Disney Character Fetch</h2>
+      <h2>ayoooowhat</h2>
       <ul>
         <li v-for="character in characters.data" :key="character.id">
           <h3>{{ character.name }}</h3>
